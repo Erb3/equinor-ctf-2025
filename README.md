@@ -36,6 +36,7 @@ Steps:
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
 	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
+	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
  - **[Secretadmin](/writeups/web/Secretadmin)**
@@ -75,6 +76,7 @@ Steps:
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
  - **[Agents](/writeups/misc/Agents)**
+	 - [bwnfools](/writeups/misc/Agents/bwnfools)  
  - **[Buffy the fortune teller](/writeups/misc/Buffy%20the%20fortune%20teller)**
 ### reversing
  - **[Frozen Labyrinth](/writeups/reversing/Frozen%20Labyrinth)**
