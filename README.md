@@ -36,16 +36,20 @@ Steps:
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
 	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
+	 - [sifi](/writeups/web/Of%20CORS%20I%20Can%20Help!/sifi)  
 	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
+	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
  - **[Secretadmin](/writeups/web/Secretadmin)**
  - **[shop-8](/writeups/web/shop-8)**
+	 - [sifi](/writeups/web/shop-8/sifi)  
  - **[Sigma2KQL Converter](/writeups/web/Sigma2KQL%20Converter)**
 	 - [Iku-toppene](/writeups/web/Sigma2KQL%20Converter/Iku-toppene)  
  - **[CloudNotes](/writeups/web/CloudNotes)**
  - **[shop-7](/writeups/web/shop-7)**
  - **[Spin-For-Flag](/writeups/web/Spin-For-Flag)**
+	 - [sifi](/writeups/web/Spin-For-Flag/sifi)  
  - **[breadcrumbs](/writeups/web/breadcrumbs)**
 ### crypto
  - **[Hyperactive](/writeups/crypto/Hyperactive)**
