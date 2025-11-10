@@ -60,6 +60,7 @@ Steps:
 	 - [bootplug](/writeups/web/Spin-For-Flag/bootplug)  
 	 - [sifi](/writeups/web/Spin-For-Flag/sifi)  
  - **[breadcrumbs](/writeups/web/breadcrumbs)**
+	 - [big](/writeups/web/breadcrumbs/big)  
 	 - [B00S](/writeups/web/breadcrumbs/B00S)  
 	 - [bwnfools](/writeups/web/breadcrumbs/bwnfools)  
 ### crypto
