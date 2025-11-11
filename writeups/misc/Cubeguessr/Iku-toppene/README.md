@@ -1,18 +1,18 @@
 # 🔥 Cubeguessr 🔥
-## Team: Iku-toppene 🐮
+### Team: Iku-toppene 🐮
 **Author:** Zukane, jole
 
 ```
 I heard normal Geoguessr has turned too easy. After all, it is the same old world every time that we all have visited before. I heard that if you get a 5k score there might also be a flag or something.
 ```
 
-##### Challenge overview
+### Challenge overview
 
 In this CTF challenge, we are given a challenge link for a Geoguessr style game in Minecraft. Upon entering the game, we are met with an introductory info-message detailing how to play the game and what the goal is. 
 
 The remote instance streams block-data from a real Minecraft server to our browser. The goal is to identify exactly where in the $30,0000,000 \times 30,0000,000$ block world you are. The flag is given by scoring a perfect 5000 in all five rounds, for at total of 25,000 points. The Minecraft server runs on the newest 1.21.4 version of Minecraft by default, but the server version can actually be adjusted in the game settings
 
-##### Minecraft's randomness
+### Minecraft's randomness
 
 Minecraft is a procedurally generated game, where the world is generated using terrain generation algorithms based on PRNG seeds. A lot of players may be familiar with Minecraft's world seed, which is used for terrain generation among other things. There exists many different methods and strategies for cracking the Minecraft world seed based on how different blocks and structures are generated. Trees, flowers, the rotation/direction of blocks, etc. 
 
@@ -28,7 +28,7 @@ This means a chunk of generated bedrock-pattern can be used along with the PRNG 
 
 We quickly found ChromeChrusher's famous `bedrock.c` program: https://gist.github.com/LuxXx/32b132a73e4073b9d2fe2544fb09a15d. The program takes in a 16x16 array of 0s and 1s, indicating non-bedrock and bedrock blocks within the chunk. The top layer of bedrock at y=4 is used. On this layer, 20% of the blocks are generated as bedrock. We put the server on version 1.12.2 (likely any pre-1.13 will work), and began parsing the block-data.
 
-##### Extracting y-level 4
+### Extracting y-level 4
 
 As mentioned before, the challenge service runs a Minecraft server on the remote instance and streams block-data from the game and into our browser. The `bedrock.c` program works best when the 16x16 bedrock layer is for a full chunk. We can create a web-socket to connect to the instance, and parse a chunk's block data on the `loadChunk` event. We look at all block with y-coordinate 4 in the chunk, and check the block ID against id 7, which is Minecraft's block ID for bedrock.
 
@@ -102,7 +102,7 @@ Running this JavaScript code connects to the server, and parses the loaded chunk
 
 This bedrock layer can then be copy-pasted into `int full_pattern[16*16] {}` in the `bedrock.c` program.
 
-##### Cracking the chunk coordinates
+### Cracking the chunk coordinates
 
 With the y-level 4 bedrock pattern parsed to an array, we can compile and run the `bedrock.c` program. However, there is a small problem. With a world-size of $30,0000,000 \times 30,0000,000$ blocks, there are $1.875.000 \times 1.875.000 = 3.515.625.000.000$ chunks to search. Running a single process on one pc will simply take too long. 
 
