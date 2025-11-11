@@ -49,6 +49,7 @@ Steps:
 	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
  - **[Secretadmin](/writeups/web/Secretadmin)**
 	 - [big](/writeups/web/Secretadmin/big)  
+	 - [BaneNOR](/writeups/web/Secretadmin/BaneNOR)  
  - **[shop-8](/writeups/web/shop-8)**
 	 - [nørds](/writeups/web/shop-8/nørds)  
 	 - [sifi](/writeups/web/shop-8/sifi)  
@@ -117,11 +118,13 @@ Steps:
 	 - [highly-regarded](/writeups/reversing/Frozen%20Labyrinth/highly-regarded)  
  - **[Broken Mario 2](/writeups/reversing/Broken%20Mario%202)**
  - **[FlagChecker](/writeups/reversing/FlagChecker)**
+	 - [BaneNOR](/writeups/reversing/FlagChecker/BaneNOR)  
 	 - [enso](/writeups/reversing/FlagChecker/enso)  
  - **[EPTBoy Strikes Back](/writeups/reversing/EPTBoy%20Strikes%20Back)**
 	 - [ekho](/writeups/reversing/EPTBoy%20Strikes%20Back/ekho)  
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
 	 - [bwnfools](/writeups/reversing/FlagPrinter/bwnfools)  
+	 - [BaneNOR](/writeups/reversing/FlagPrinter/BaneNOR)  
  - **[EPTBoy](/writeups/reversing/EPTBoy)**
 	 - [bootplug](/writeups/reversing/EPTBoy/bootplug)  
 	 - [B00S](/writeups/reversing/EPTBoy/B00S)  
