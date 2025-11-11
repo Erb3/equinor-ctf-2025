@@ -21,3 +21,5 @@ By decompiling the binary in IDAFree, you could easily spot the flag as a string
 After decompiling the binary in IDAFree, you can use it to create a pseudocode for the binary to better understand the functionality of the code. Using the pseudocode you can again just read the flag. 
 
 <img src="./images/idapseudocode.png" width=75%>
+
+The flag for this task was: `EPT{FOOLEDYOUONCELOL}`
