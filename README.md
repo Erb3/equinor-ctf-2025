@@ -89,6 +89,7 @@ Steps:
  - **[Post Quantum Resistant Crypto for Enterprises](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises)**
 	 - [RumbleInTheJungle](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises/RumbleInTheJungle)  
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
+	 - [coldboots](/writeups/crypto/pkcstiming/coldboots)  
  - **[Curvy](/writeups/crypto/Curvy)**
 	 - [bwnFools](/writeups/crypto/Curvy/bwnFools)  
 ### boot2root
@@ -189,4 +190,5 @@ Steps:
 	 - [EPT](/writeups/pwn/Veal%20and%20Car's%20first%20baby%20(heap)%20is%20all%20grown%20up/EPT)  
  - **[Encryptor](/writeups/pwn/Encryptor)**
 	 - [Iku-toppene](/writeups/pwn/Encryptor/Iku-toppene)  
+	 - [coldboots](/writeups/pwn/Encryptor/coldboots)  
 
