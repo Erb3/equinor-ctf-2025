@@ -141,6 +141,7 @@ Steps:
  - **[EPTBoy Strikes Back](/writeups/reversing/EPTBoy%20Strikes%20Back)**
 	 - [ekho](/writeups/reversing/EPTBoy%20Strikes%20Back/ekho)  
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
+	 - [Sjokoladepålegg](/writeups/reversing/FlagPrinter/Sjokoladepålegg)  
 	 - [B00S](/writeups/reversing/FlagPrinter/B00S)  
 	 - [bwnfools](/writeups/reversing/FlagPrinter/bwnfools)  
 	 - [BaneNOR](/writeups/reversing/FlagPrinter/BaneNOR)  
