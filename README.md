@@ -47,6 +47,7 @@ Steps:
 	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
 	 - [RumbleInTheJungle](/writeups/web/Of%20CORS%20I%20Can%20Help!/RumbleInTheJungle)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
+	 - [big](/writeups/web/ScriptMe/big)  
 	 - [B00S](/writeups/web/ScriptMe/B00S)  
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
 	 - [big](/writeups/web/EPT%20Cinemas/big)  
@@ -84,6 +85,7 @@ Steps:
 	 - [big](/writeups/crypto/420BasedIt/big)  
 	 - [bwnfools](/writeups/crypto/420BasedIt/bwnfools)  
  - **[Srstokken](/writeups/crypto/Srstokken)**
+	 - [coldboots](/writeups/crypto/Srstokken/coldboots)  
  - **[Post Quantum Resistant Crypto for Enterprises](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises)**
 	 - [RumbleInTheJungle](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises/RumbleInTheJungle)  
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
@@ -178,6 +180,7 @@ Steps:
 	 - [Trånn Jånn](/writeups/forensics/Home%20Intrusion/Trånn%20Jånn)  
 ### pwn
  - **[Fiftiweb](/writeups/pwn/Fiftiweb)**
+	 - [coldboots](/writeups/pwn/Fiftiweb/coldboots)  
 	 - [ekho](/writeups/pwn/Fiftiweb/ekho)  
  - **[Badge Overflow](/writeups/pwn/Badge%20Overflow)**
 	 - [RumbleInTheJungle](/writeups/pwn/Badge%20Overflow/RumbleInTheJungle)  
