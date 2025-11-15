@@ -69,6 +69,7 @@ Steps:
 	 - [synapse_burnout](/writeups/web/shop-7/synapse_burnout)  
  - **[Spin-For-Flag](/writeups/web/Spin-For-Flag)**
 	 - [bootplug](/writeups/web/Spin-For-Flag/bootplug)  
+	 - [big](/writeups/web/Spin-For-Flag/big)  
 	 - [sifi](/writeups/web/Spin-For-Flag/sifi)  
  - **[breadcrumbs](/writeups/web/breadcrumbs)**
 	 - [big](/writeups/web/breadcrumbs/big)  
