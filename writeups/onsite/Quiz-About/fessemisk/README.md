@@ -1,0 +1,103 @@
+# Quizabout
+### Team: FesseMisk
+**Author:** Brille and sjaslik
+
+### Challenge
+
+> Quiz your way to the flag: 
+> 
+> ![QR image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsAQMAAABDsxw2AAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABVUlEQVRoge3Yza3DIBAEYFxBSqBUt0oJVOANeH/Asg++hYlmFT1F8N3mQZZN6V3t4lVT+khfykdKm5QtdqSQrcGqpdZYW2jSt5rUnY0MjmnuGn2XSYGnX8iA2RT9QfYfzA+1GzJYNq5o/fTdww/1001OtjgTr5lF7lpkUOxezh62yCDYHrmPL0ffaA+f+JDBsWpNlD5jL6FnO8tkQMzGEZ+B+7olHt0UGRibo7dFC/28qDMZGvNB0xT91ETJmDuR/Zzt59cRaH/aeI90/pJqkSGxSDz+Zo3cuiM9p2R4LNkl3Eqiyhg+kIGx6re0ROhyKTIoNpeunU2vbm2ePhkS2yPf6mP8ANFT3UaIZEuzaYYf6XvnPBoqMiwWucv9yVOsVSZDZfNxFm+lspABM7GRr/3s2jP2+T+EbGWmdYk+x3uHDJDFbRxXtPhEQt+wcuu4yNZm7+oLyXIaW/mKbYEAAAAASUVORK5CYII=)
+
+
+### Solve
+
+The planning of this year’s most important First Blood began as early as September. We mapped all previous locations used for the onsite challenge and created a map to predict which places would be relevant this year:
+
+![Map of predictions](images/map.png)
+
+The plan was to have people deployed at strategically selected locations before the competition started to achieve a head start. We were also in the process of wanting to take advantage of having several people on the task by mobilizing the remaining runners within reasonable distance of the first find to increase to chance to cut the running distance.
+
+We assessed that the most likely locations would probably include Stortinget, the university, or Oslo Domkirke. Therefore, we chose to place our best man, sjaslik, in that area.
+
+From previous years, a new meta, or “unintended solve” if you want to call it that, has emerged. Namely VOI.
+
+We remember from last year that this was a probable obstacle we would eventually have to face.
+
+![Kriger](images/kriger.png)
+
+So it was just a matter of fitting this into our student budget to afford this pay-to-win method:
+
+| Category       | Item         | Amount | Note                             |
+|----------------|--------------|--------|----------------------------------|
+| Income         | Student loan | 12,000 | To cover the basic expenses.     |
+| Expenses       | Rent         | 6,000  | 9.2 m² in Grünerløkka            |
+|                | Food         | 1,500  | Pizza, noodles, and frozen pizza |
+|                | Energy drink | 800    | Essential for exams              |
+|                | ChatGPT      | 1,000  |                                  |
+|                | Claude       | 1,000  |                                  |
+|                | Gemini       | 1,000  |                                  |
+|                | Pay people I owe money | 1500 |                          |
+| Total Expenses |              | 14,300 |                                  |
+| Budget Balance |              | -2,300 |                                  |
+
+There’s no room for any VOI here. But might it be possible to find alternative funding methods through student sponsorship?
+
+![Does VOI get covered by oil money?](images/voibudget.png)
+
+With no VOI, there was only one option left. We would need to bring our running shoes. Luckily, nothing could possibly go wrong if we were already deployed early.
+
+When the big screen inside The Hub began counting down, the operation started with the runners positioning themselves at the planned exit point. A dedicated Discord channel had been set up, and the team inside was ready to figure out where in Oslo we needed to go. Whether it required reverse image search, Turbo Overpass, or a (pocket know) guy on the street, the operations center on the inside was prepared to handle almost any challenge.
+
+Then the operations clock struck H-hour and the tasks were released. And now, this is probably Brilles second-worst decision, after not buying NVIDIA shares:
+
+![Brille cant find the challenge?](images/nochallenge.png)
+
+All operations were canceled, and the runners were sent back to headquarters for other challenge solving.
+
+So the mood was gloomy. Luckily, after not to many minutes we suspected that the name “Quiz-about” cound be a hint that the task we had been expecting was making a comeback this year as well. However, sjaslik barely managed to get back to HQ before being sent out again. There was apparently a challenge after all, hidden behind a quiz. But will he manage it this time? Without a head start, and without sponsorship for a Voi?
+
+![chall1](images/image-1.png)
+
+The first location was easily recognized by the local expert on the team, so it was only a quick Google search away to pinpoint the exact location on the map:
+
+The QR code on the door took us to a meme quiz. Luckily, this was not a difficult match for our trusty  Sivert, who got them all correct first try.
+
+![chall2](images/image-2.png)
+
+The next location was easily recognized as the pier near Rådhuset. sjaslik began running, while HQ figured an exact grid and sent him along the way. However, it quickly became clear that today’s first mistake, and the resulting delay, had led to several teams clustering around a potential victory. And it also seemed that this team had a different budget:
+
+![voi meetup](images/voi.png)
+
+![chall3](images/image-3.png)
+
+The code gave a strange quiz, with odd questions. Luckily, there were only four questions so a brute force was not to far out of reach.
+
+An AI-generated image of a building that might not be so easy to recognize appeared. Fortunately, Brille’s unbeatable local history knowledge cracked this image in seconds.
+
+Bankplassen just by the old Bank of Norway, with an exact grid, was reported about four minutes after Sjaslik sent the quiz results to HQ.
+
+But here the story starts to get interesting. Another team managed the quiz at the same time, which led to a session testing the theorem: how long can @sjaslik keep up with a VOI? Something like 300 meters, perhaps. Fortunately, as in *Æsops* fable of *The Tortoise and the Hare*, it’s not always the fastest who wins.
+
+![VOIing team is lost](images/voilost.png)
+
+And not to point any fingers, but it’s worth mentioning that he was wearing a WackAttack hoodie.
+
+After some studying of the angle from which the image was taken, the final QR code was eventually found. With Siverts clutch knowledge of older arcade games, he was quick to power through the last quiz and retrieve the flag:
+
+![Flag](images/flag.png)
+
+### Last words
+
+The challenge was solved `2025-11-08T09:30:52.672794Z`. The next team solved it 3.5 minutes later.
+
+Rumor has it that BaneNor also planned to tackle the challenge immediately to get a first blood, but there was apparently a signal error at Oslo S, which caused some delays.
+
+![Bane NORs solve timestamp](images/banenor.png)
+
+Strategies for next year are already being planned. They include, but are not limited to:
+* Hire a taxi driver who can recognize any location in Oslo in under 5 seconds.
+* Use a drone to remotely scan the QR codes.
+* Follow other CTF participants and hope that our **deliver_flag** written in Rust is faster than the opponents’, so we beat them at the final stretch.
+* Bring our own QR codes that we can plaster over the real ones.
+* Follow that one guy in the EPT hoodie who leaves the hotel around 08:00 and see where he places the stickers.
+* Book all the VOIs within a 500-meter radius of The Hub just before 09:00, and set them all to have a speed limit of 6 km/h.
